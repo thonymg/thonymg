@@ -30,10 +30,10 @@ dignity.
 
 - 🌱 I’m currently building :
 
-  - [maybe-zod](https://github.com/thonymg/maybe-zod)
-  - [https://vagabond.work/](https://vagabond.work/)
-  - [spacejam](https://github.com/thonymg/spacejam)
-  - [microlearning app](https://microlearn.vagabond.work/)
+  - [maybe-zod](https://github.com/thonymg/maybe-zod) TypeScript utility library that combines Zod schema validation with error handling using a Maybe monad pattern for negative space programming.
+  - [vagabond.work/](https://vagabond.work/) Create AI-optimized resumes for ATS with Vagabond.work
+  - [spacejam](https://github.com/thonymg/spacejam) Simulation and management of urban mobility
+  - [microlearning app](https://microlearn.vagabond.work/) Learn small, learn smart
 
 - 💬 Ask me about **Svelte, Vue, Angular, React, Typescript, Bun**
 - 📫 How to reach me **hello@vagabond.work**
