@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./assets/cover.jpeg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Thony</h1>
 <h3 align="center">Senior frontend developper from Africa ✊ to the stars 🌌</h3>
 
@@ -36,12 +40,6 @@ dignity.
 
 - 📄 Know about my experiences
   [Thony Linkedin](https://www.linkedin.com/in/thonymg/)
-
-<video autoplay muted align="center">
-<source src="/assets/logo_animation.webm" type="video/webm" />
-
-</video>
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
