@@ -93,3 +93,4 @@ dignity.
 <p align="center">
 <img src="./assets/2.jpg" />
 </p>
+<h2>Paix et guérison</h2>
